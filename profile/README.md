@@ -16,7 +16,7 @@ of being hidden behind a convenient interface.
 
 | Product | What it does | Current stage |
 | --- | --- | --- |
-| **ArcRelay Suite** | Cross-device keyboard and mouse, clipboard, file transfer, and inspectable local automation | Desktop source and shared components are public |
+| **[ArcRelay](https://github.com/ArcRelayProject/arcrelay)** | Cross-device keyboard and mouse, clipboard, file transfer, and inspectable local automation | [Desktop source](https://github.com/ArcRelayProject/arcrelay) and [test downloads](https://github.com/ArcRelayProject/arcrelay/releases) are public |
 | **Sniptra** | Screenshot capture, editable annotation, local OCR, and pinned images | Available in selected official builds; standalone release planned |
 | **[SubnetDesk](https://github.com/zibo-chen/SubnetDesk)** | Direct remote desktop across LANs, routed private networks, and VPNs | Released from the maintainer repository; moving here later |
 
@@ -58,7 +58,7 @@ ArcRelay 由深圳市长柠科技有限公司（Shenzhen Changning Technology Co
 
 | 产品 | 主要用途 | 当前阶段 |
 | --- | --- | --- |
-| **ArcRelay Suite** | 跨设备键鼠、剪贴板、文件传输与可检查的本地自动化 | 桌面端及其必要共享组件已公开 |
+| **[ArcRelay](https://github.com/ArcRelayProject/arcrelay)** | 跨设备键鼠、剪贴板、文件传输与可检查的本地自动化 | [桌面端源码](https://github.com/ArcRelayProject/arcrelay)及[测试版下载](https://github.com/ArcRelayProject/arcrelay/releases)已公开 |
 | **Sniptra** | 截图、可编辑标注、本地 OCR 与贴图 | 在部分官方构建中提供；独立版规划中 |
 | **[SubnetDesk](https://github.com/zibo-chen/SubnetDesk)** | 局域网、路由私网与 VPN 内的直接远程桌面 | 已在个人仓库发布；后续迁入本组织 |
 
